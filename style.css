@@ -313,7 +313,7 @@ hr{
 
 
 @media only screen and (max-width: 770px){
-    header{
+    #header{
         background-image: none;
     }
     .container{
